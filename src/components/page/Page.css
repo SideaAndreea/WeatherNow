@@ -1,0 +1,47 @@
+.container-page {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	background-color: #f4f9ff;
+}
+
+.weather {
+	padding: 20px;
+	background-color: #e3f2fd;
+	border-radius: 1rem;
+	width: 400px;
+	margin: 20px auto;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.input-text {
+	background-color: #fafafa;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 5px;
+	width: 100%;
+}
+
+.button-group {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.button-blue,
+.button-green {
+	padding: 10px 20px;
+	border-radius: 4px;
+	font-size: 16px;
+}
+
+.card {
+	margin: 20px auto;
+	padding: 20px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+	background-color: white;
+	border-radius: 1rem;
+	width: 400px;
+}
