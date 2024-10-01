@@ -1,3 +1,7 @@
+#WeatherNOW
+
+React application that shows current weather conditions and makes use of redux in the best way possible.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
